@@ -1,6 +1,7 @@
 ### Hi everyone! 👋 I'm Javi and I love mobile development ❤️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-torn%C3%A9-hern%C3%A1ndez-62b07786/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tornic88)
 
 <!--
 **javiertorne/javiertorne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
